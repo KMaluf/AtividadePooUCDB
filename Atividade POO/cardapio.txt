@@ -1,0 +1,7 @@
+1 | X- Calabresa | 15.5;
+2 | X-salada | 8.0;
+3 | X-tudo | 16.0;
+4 | Batata Frita | 10.25;
+5 | Suco | 9.0;
+6 | Refrigerante | 6.0;
+7 | Água | 3.50;
